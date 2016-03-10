@@ -1,2 +1,2 @@
 # BKP_2016
-Code answers for simple and complex calc Boston key party 2016
+Code answers for some challanges of Boston key party 2016
